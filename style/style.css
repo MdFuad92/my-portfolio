@@ -1,0 +1,316 @@
+*{
+
+    margin: 0%;
+}
+
+.container{
+
+    background-image: url('../images/banner/banner3.png');
+
+    height:808px;
+    background-repeat: no-repeat;
+    margin: 0%;
+    
+    
+    
+}
+
+.header-text{
+    text-align: right;
+    width: 400px;
+   margin-left: auto;
+   margin-right: auto;
+   padding-top: 200px;
+   padding-left: 200px;
+
+
+
+    
+
+}
+
+.header-text h1{
+
+    color: #FFF;
+
+text-align: right;
+
+font-size: 65px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+font-family: 'Work Sans', sans-serif;
+margin-bottom: 0%;
+
+
+
+  
+}
+
+.header-text p{
+
+    color: #FFF;
+    margin-top: 30px;
+
+    text-align: right;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+
+
+}
+
+.button-container button{
+
+    width: 160px;
+    height: 64px;
+    border-radius: 5px;
+    background: #FFF;
+    border: none;
+    padding: 10px 5px;
+    color: #005FAC;
+
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-top: 30px;
+    
+  
+    
+}
+
+.my-failures{
+
+    width: 1100px;
+    height:900px;
+    background: #FFF;
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    gap: 140px;
+    margin-bottom: 0%;
+}
+
+.my-info img{
+
+    width: 500px;
+}
+
+
+
+.my-goals h1{
+
+    font-family: 'Work Sans', sans-serif;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 30px;
+   
+}
+
+.my-goals p{
+
+    color:  #444343;
+    font-family: Work Sans;
+    font-size:16px;
+    font-style:normal;
+    font-weight:400px;
+    line-height:26px;
+    margin-top: 20px;
+ 
+
+}
+section{
+    width: 100%;
+    height: 800px;
+    margin-top: 50px;
+    margin-bottom: 0%;
+}
+
+.my-plans h1{
+    text-align: center;
+    color:  #151414;
+
+font-family: Work Sans;
+font-size: 40px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.skills{
+    margin-top: 120px;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    line-height: 36px;
+    margin-bottom: 0%;
+   
+    
+}
+
+
+.skills h2{
+
+    color:  #151414;
+
+font-family: Work Sans;
+font-size:30px;
+
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+
+}
+
+.skills p{
+
+    color:  #737272;
+    font-size: 20px;
+    
+
+font-family: Work Sans;
+
+font-style: normal;
+font-weight: 500;
+
+}
+
+
+.positive{
+    background-image: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0.00) 100%), 
+    url('../images/watch.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+    
+    width: 70%;
+    height: 300px;
+    background-position: center;
+    border-radius: 8px;
+}
+
+.positive h1{
+    color: #FFF;
+
+font-family: Work Sans;
+font-size: 40px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-align: left;
+padding-top: 80px;
+margin-left: 80px;
+}
+
+.positive button{
+    margin-top: 60px;
+    margin-left: 80px;
+    color: #FFF;
+
+    width: 160px;
+height: 64px;
+border-radius: 5px;
+border: none;
+     }
+
+     .positive button > p{
+
+        color: #005FAC;
+text-align: center;
+font-family: Work Sans;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+     }
+
+
+footer{
+
+  height: 600px;
+  width: auto;
+    
+    background: #151414;
+}
+
+.foot-contain{
+    margin-left: 600px;
+
+    padding-top: 200px;
+    position: relative;
+
+    margin-bottom: 0%;
+    display: flex;
+    gap: 50px;
+    
+    
+    
+}
+
+.foot-text h1{
+
+    color: #F8F8F8;
+
+font-family: Work Sans;
+font-size: 45px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+Content
+
+}
+
+.foot-text p{
+    width: 400px;
+    color:#FFF;
+    font-family: Work Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+.email{
+    color: #FFF;
+
+font-family: Work Sans;
+font-size: 25px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+
+    }
+
+    .email input{
+        background:  #151414;
+        width: 300px;
+        height: 50px;
+        border: 1px solid white;
+        margin-top: 10px;
+       color: #FFF;
+        }
+  
+.image-container{
+
+    margin-top: 50px;
+    margin-left: 600px;
+}
+  
+
+
+
+
+
+
+
+
+
